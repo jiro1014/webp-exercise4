@@ -37,6 +37,6 @@ a:hover {
 
 ul {
     background-color: #eeeeee;
-    border: 5px purple;
+    border: solid 5px purple;
     padding: 0,5em 1em;
 }
